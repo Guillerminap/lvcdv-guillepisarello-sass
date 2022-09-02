@@ -1,0 +1,22 @@
+.container {
+    max-width: 960px;
+  }
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    height: 120px;
+  }
+  .site-header a {
+    color: #ffffff;
+    transition: color .15s ease-in-out;
+    background-color: #323232;
+    height: 40px;
+  }
+  .site-header a:hover {
+    color: #fff;
+    text-decoration: none;
+    transition: color .15s ease-in-out;
+    background-color: #6b8e23;
+  }
+  

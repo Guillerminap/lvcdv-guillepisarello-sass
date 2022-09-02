@@ -1,0 +1,14 @@
+.boton {
+  padding: 15px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.display-5 {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}
+
+h4.display-5 {
+  font-size: 30px;
+}/*# sourceMappingURL=-main.css.map */
